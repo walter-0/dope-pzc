@@ -1,0 +1,20 @@
+@font-face {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Poppins'), url('../../fonts/Poppins-Regular.ttf');
+}
+
+@font-face {
+  font-family: Poppins;
+  font-style: italic;
+  font-weight: 400;
+  src: local('Poppins'), url('../../fonts/Poppins-Italic.ttf');
+}
+
+@font-face {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 900;
+  src: local(''), url('../../fonts/Poppins-Black.ttf');
+}
