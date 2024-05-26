@@ -19,6 +19,7 @@
 .term-description {
   margin-top: 12px;
   font-size: 1.7rem;
+  color: var(--mozzarella-color);
 }
 
 @media (max-width: 767px) {
