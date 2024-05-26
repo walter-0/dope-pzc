@@ -1,15 +1,25 @@
 :root {
-    --primary-color: var(--ghost-accent-color, #9692af);
-    --primary-text-color: #222;
-    --secondary-text-color: #aaa;
-    --yellow-color: #ffc475;
-    --white-color: #fff;
-    --light-gray-color: #f1f1f1;
-    --mid-gray-color: #d9d9d9;
-    --dark-gray-color: #1a1a1a;
-    --black-color: #000;
-    --font-sans: Raleway, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
-    --font-serif: "PT Serif", Times, serif;
-    --animation-base: ease;
-    --shadow-base: 0 0 10px rgba(0, 0, 0, 0.2);
+  /* Brand colors */
+  --vodka-color: #d84d3c;
+  --parmesan-color: #ffb962;
+  --pesto-color: #5a793f;
+  --parsley-color: #b6e98a;
+  --peezy-color: #da63ba;
+  --rose-color: #f6a0e0;
+  --wine-color: #351b2f;
+  --mozzarella-color: #fef9f9;
+
+  --primary-color: var(--ghost-accent-color, #9692af);
+  --primary-text-color: var(--mozzarella-color);
+  --secondary-text-color: #aaa;
+  --yellow-color: #ffc475;
+  --white-color: #fff;
+  --light-gray-color: #f1f1f1;
+  --mid-gray-color: #d9d9d9;
+  --dark-gray-color: #1a1a1a;
+  --black-color: #000;
+  --font-sans: Poppins, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
+  --font-serif: Times, serif;
+  --animation-base: ease;
+  --shadow-base: 0 0 10px rgba(0, 0, 0, 0.2);
 }
