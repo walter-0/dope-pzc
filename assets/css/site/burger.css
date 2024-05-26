@@ -4,7 +4,7 @@
   width: 34px;
   height: 34px;
   cursor: pointer;
-  background-color: var(--wine-color);
+  background-color: transparent;
   border: 2px solid var(--mozzarella-color);
 }
 
