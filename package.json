@@ -1,6 +1,6 @@
 {
-    "name": "dope",
-    "description": "A Ghost theme",
+    "name": "dope-pzc",
+    "description": "A custom version of the Dope Ghost theme",
     "version": "1.0.0",
     "private": true,
     "engines": {
@@ -45,18 +45,18 @@
             "title_font": {
                 "type": "select",
                 "options": [
-                    "Modern sans-serif",
+                    "Poppins",
                     "Elegant serif"
                 ],
-                "default": "Modern sans-serif"
+                "default": "Poppins"
             },
             "body_font": {
                 "type": "select",
                 "options": [
-                    "Modern sans-serif",
+                    "Poppins",
                     "Elegant serif"
                 ],
-                "default": "Modern sans-serif"
+                "default": "Poppins"
             },
             "show_author": {
                 "type": "boolean",
