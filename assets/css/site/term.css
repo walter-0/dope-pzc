@@ -9,6 +9,7 @@
     align-items: center;
     font-size: 4.6rem;
     font-weight: 800;
+    color: var(--mozzarella-color);
 }
 
 .has-serif-title:not([class*=" gh-font-heading"]):not([class^="gh-font-heading"]) .term-name {
