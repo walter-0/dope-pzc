@@ -56,6 +56,7 @@
   font-size: 2rem;
   font-weight: 800;
   word-break: break-word;
+  color: var(--mozzarella-color);
 }
 
 .has-serif-title:not([class*=' gh-font-heading']):not([class^='gh-font-heading']) .post-title {
@@ -82,6 +83,10 @@
 
 .has-serif-body:not([class*=' gh-font-body']):not([class^='gh-font-body']) .post-excerpt {
   font-family: var(--gh-font-body, var(--font-serif));
+}
+
+.post-content {
+  color: var(--mozzarella-color);
 }
 
 .post-footer {
