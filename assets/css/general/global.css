@@ -1,3 +1,8 @@
-body, h1, h2, h3, h4, h5, h6, a, p {
+.post-title:not(.off-canvas .post-title),
+.post-excerpt:not(.off-canvas .post-excerpt),
+.term-name:not(.off-canvas .term-name),
+.term-description:not(.off-canvas .term-description),
+.post-content:not(.off-canvas .post-content),
+.post-title-link:not(.off-canvas .post-title-link) {
   color: var(--primary-text-color);
 }

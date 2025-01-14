@@ -42,22 +42,6 @@
         },
         "card_assets": true,
         "custom": {
-            "title_font": {
-                "type": "select",
-                "options": [
-                    "Poppins",
-                    "Elegant serif"
-                ],
-                "default": "Poppins"
-            },
-            "body_font": {
-                "type": "select",
-                "options": [
-                    "Poppins",
-                    "Elegant serif"
-                ],
-                "default": "Poppins"
-            },
             "show_author": {
                 "type": "boolean",
                 "default": true,
