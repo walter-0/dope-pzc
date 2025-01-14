@@ -3,6 +3,12 @@
 .term-name:not(.off-canvas .term-name),
 .term-description:not(.off-canvas .term-description),
 .post-content:not(.off-canvas .post-content),
-.post-title-link:not(.off-canvas .post-title-link) {
+.post-title-link:not(.off-canvas .post-title-link),
+h1:not(.off-canvas h1),
+h2:not(.off-canvas h2),
+h3:not(.off-canvas h3),
+h4:not(.off-canvas h4),
+h5:not(.off-canvas h5),
+h6:not(.off-canvas h6) {
   color: var(--primary-text-color);
 }
